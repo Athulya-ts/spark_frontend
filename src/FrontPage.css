@@ -1,0 +1,15 @@
+.frontpage{
+    margin: 3%;
+    position: relative;
+}
+img{
+    height:600px;
+}
+#frontpage{
+    font-size: 150px;
+    color: #273841;
+    text-decoration: none;
+    position: absolute;
+    left: 700px;
+    bottom:90px;
+}

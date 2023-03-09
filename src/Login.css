@@ -1,0 +1,29 @@
+.sign-input{
+    width:350px;
+}
+.register-form{
+    position: relative;
+    top:50px;
+    border: 1px solid white;
+    padding: 80px;
+    box-shadow: 5px 10px 18px #888888;
+    width:1240px;
+    height:460px;
+    margin-left: 50px;
+}
+.right{
+    position: relative;
+    left:800px;
+    bottom:170px;
+    top:90px;
+}
+.left{
+    position: relative;
+    bottom:60px;
+    left:50px;
+}
+.login-button{
+    position: relative;
+    top:200px;
+    left:400px;
+}

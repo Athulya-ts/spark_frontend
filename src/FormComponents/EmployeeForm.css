@@ -1,0 +1,38 @@
+.form-align{
+    position: relative;
+    top:50px;
+    border: 1px solid white;
+    padding: 80px;
+    box-shadow: 5px 10px 18px #888888;
+    width:1240px;
+    height:460px;
+    margin-left: 50px;
+}
+.input{
+    width:1000px;
+}
+.right{
+    position: relative;
+    left:780px;
+    bottom:460px;
+    position: fixed;
+}
+.left{
+    position: relative;
+    bottom:50px;
+}
+.radio{
+    position: relative;
+    left:35px;
+    top:280px;
+}
+.register{
+    color:#2e424d;
+}
+.icon{
+    font-size:40px;
+    position:relative;
+    right:120px;
+    bottom:700px;
+    color:#2e424d;
+}
